@@ -1,5 +1,5 @@
 rabbitmq:
-  host: 127.0.0.1
+  host: 10.10.10.139
   port: 5672
   username: admin
   passport: admin
